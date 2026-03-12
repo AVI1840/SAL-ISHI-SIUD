@@ -1,0 +1,11 @@
+# Word temp files
+~$*
+~WRL*
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temp
+*.tmp
